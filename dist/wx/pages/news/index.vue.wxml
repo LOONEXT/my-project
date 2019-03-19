@@ -1,0 +1,32 @@
+<import src="/components/swiper.vue.wxml" /><template name="9a3afd86">
+  <view class="_div data-v-381ffda5">
+    <view class="_div data-v-381ffda5 div-box" duration="300">
+      <view class="_view data-v-381ffda5"><template data="{{...$root[$kk+'0'], $root}}" is="235286c5"></template></view>
+      <view class="_view data-v-381ffda5 themes-box-top"><text class="_text data-v-381ffda5 themes-box-title">专栏</text> <text class="_text data-v-381ffda5 themes-box-subtitle">你想要知道生活专栏</text></view>
+      <view class="_view data-v-381ffda5 themes-list">
+        <view class="_view data-v-381ffda5 themes-list-box">
+          <navigator class="_navigator data-v-381ffda5">
+            <view class="_view data-v-381ffda5 themes-list-thumbnail">
+              <image class="_image data-v-381ffda5 themes-list-img" src="http://www.zch.world/static/chat-images/user.png"></image>
+            </view>
+            <view class="_view data-v-381ffda5 themes-list-main">
+              <view class="_view data-v-381ffda5 themes-list-name">秋风，唱给田野动听的歌</view>
+              <view class="_view data-v-381ffda5 themes-list-description">秋风用时光的旋律，用桂花的芬芳、苹果的馨香、菊花的灿烂、牵牛花的奔放、一串红的艳丽，把一望无际的田野乡村，演绎得在自然中沉醉，渲染得天地间空旷而又阳刚。</view>
+            </view>
+          </navigator>
+        </view>
+        <view class="_view data-v-381ffda5 themes-list-box">
+          <navigator class="_navigator data-v-381ffda5">
+            <view class="_view data-v-381ffda5 themes-list-thumbnail">
+              <image class="_image data-v-381ffda5 themes-list-img" src="http://www.zch.world/static/chat-images/user.png"></image>
+            </view>
+            <view class="_view data-v-381ffda5 themes-list-main">
+              <view class="_view data-v-381ffda5 themes-list-name">秋风，唱给田野动听的歌</view>
+              <view class="_view data-v-381ffda5 themes-list-description">秋风用时光的旋律，用桂花的芬芳、苹果的馨香、菊花的灿烂、牵牛花的奔放、一串红的艳丽，把一望无际的田野乡村，演绎得在自然中沉醉，渲染得天地间空旷而又阳刚。</view>
+            </view>
+          </navigator>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

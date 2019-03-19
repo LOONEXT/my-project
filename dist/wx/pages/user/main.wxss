@@ -1,0 +1,59 @@
+
+.all.data-v-50f8889d {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.container.data-v-50f8889d {
+  background: #00868B;
+  background-size: cover;
+  background: url(http://www.zch.world/static/chat-images/bg.jpg);
+  width: 100%;
+  height: 540rpx;
+  display: block;
+}
+.dimg.data-v-50f8889d {
+  text-align: center;
+  margin-bottom: 10rpx;
+  margin-top: -120rpx;
+}
+.avatar.data-v-50f8889d {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+}
+.botContent.data-v-50f8889d {
+  width: 100%;
+  height: auto;
+  margin: 20rpx;
+}
+._div.feal.data-v-50f8889d {
+  width: 220rpx;
+  height: 200rpx;
+  float: left;
+  padding: 12rpx 12rpx 18rpx 8rpx;
+}
+.fimg.data-v-50f8889d {
+  width: 230rpx;
+  height: 220rpx;
+}
+._div.item.data-v-50f8889d {
+  box-sizing: border-box;
+  font-size: 28rpx;
+  margin: 20rpx auto 0;
+  padding: 6rpx 20rpx;
+  width: 100%;
+  height: 40rpx;
+  line-height: 40rpx;
+  display: flex;
+  float: left;
+}
+.icon.data-v-50f8889d {
+  width: 50rpx;
+  height: 50rpx;
+}
+.pay-text.data-v-50f8889d {
+  line-height: 50rpx;
+  margin-left: 10rpx;
+}

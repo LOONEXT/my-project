@@ -1,0 +1,13 @@
+<template name="a3ae4f84">
+  <view class="_div data-v-5eca2e54 container">
+    <image src="http://www.zch.world/static/chat-images/user.png" class="_image data-v-5eca2e54 avatar"></image>
+    <view class="_div data-v-5eca2e54 section"><button bindtap="handleProxy" class="_button data-v-5eca2e54 login" data-eventid="{{'0'}}" data-comkey="{{$k}}">登 录</button>
+      <view class="_div data-v-5eca2e54 item" data-pay="wechat" bindtap="onItemClick">
+        <image src="http://www.zch.world/static/chat-images/pay_wx_order.png" class="_image data-v-5eca2e54 icon"></image> <text class="_text data-v-5eca2e54 pay-text">支持</text>
+      </view>
+      <view class="_div data-v-5eca2e54 item" data-pay="alipay" bindtap="onItemClick">
+        <image src="http://www.zch.world/static/chat-images/pay_zhifubao_order.png" class="_image data-v-5eca2e54 icon"></image> <text class="_text data-v-5eca2e54 pay-text">支持</text>
+      </view>
+    </view>
+  </view>
+</template>
